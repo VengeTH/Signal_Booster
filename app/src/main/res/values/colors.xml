@@ -11,4 +11,5 @@
     <color name="lightgray">#bcb8b6</color>
     <color name="bluebg">#05abc4</color>
     <color name="welcomeButton">#2b3454</color>
+    <color name="transparent">#00000000</color>
 </resources>

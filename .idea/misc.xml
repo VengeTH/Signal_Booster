@@ -4,14 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/drawable/connect_wifi_button.xml" value="0.3828125" />
+        <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/drawable/dialog_bg.xml" value="0.22552083333333334" />
         <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
         <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/drawable/on_hover.xml" value="0.3828125" />
+        <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/drawable/rounded_bg.xml" value="0.22552083333333334" />
         <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/drawable/rounded_button.xml" value="0.3828125" />
+        <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/drawable/rounded_button_stretched.xml" value="0.22552083333333334" />
         <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/font-v26/font_family.xml" value="0.23541666666666666" />
         <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/font/font_family.xml" value="0.396875" />
         <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/layout/main.xml" value="0.20520833333333333" />
         <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/layout/secondary.xml" value="0.5" />
+        <entry key="..\:/Workspace/Projects/SignalBooster/app/src/main/res/layout/wifi_credentials_dialog.xml" value="0.33" />
       </map>
     </option>
   </component>

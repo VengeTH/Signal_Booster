@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <!-- Style with no action bar -->
+    <style name="NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <!-- Style the button font weight -->
+    <style name="fontweightofbutton" parent="Widget.AppCompat.Button">
+        <item name="android:fontFamily">@font/antonfont</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="HintTextStyle" parent="android:TextAppearance">
+        <item name="android:fontFamily">@font/opensansreg </item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="AlertDialogBg" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/dialog_bg</item>
+    </style>
+</resources>
