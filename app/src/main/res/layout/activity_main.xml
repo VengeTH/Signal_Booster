@@ -49,12 +49,12 @@
         android:maxWidth="100in"
         android:maxHeight="100in"
         android:scaleType="fitCenter"
-        app:srcCompat="@drawable/rovicgamba"
-        tools:layout_editor_absoluteX="-250dp"
-        tools:layout_editor_absoluteY="-45dp"
+        app:layout_constraintStart_toEndOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:srcCompat="@drawable/rovicgamba" />
 
     <TextView
         android:id="@+id/textView"
